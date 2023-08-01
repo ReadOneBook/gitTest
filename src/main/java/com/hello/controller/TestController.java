@@ -5,6 +5,6 @@ public class TestController {
         System.out.println("git");
         System.out.println("hello world!");
         System.out.println("hot-fix");
-        System.out.println(123);
+        System.out.println("hello world!");
     }
 }
